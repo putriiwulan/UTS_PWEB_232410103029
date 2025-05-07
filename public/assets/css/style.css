@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&display=swap");
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar{
+    background-color: #328092;
+}
+
+#hero{
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+padding: 20px 0;
+color: #ffff;
+min-height: 450px;
+display: flex;
+align-items: center;
+justify-content: center;
+text-align: center;
+}
+
+
+.hero-section {
+    background-color: bisque;
+    background-size: cover;
+    background-position: center;
+    height: 60vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #f9f5f5;
+    margin-top: 50px;
+    padding: 20px;
+}
+
+.hero-content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.hero-subtittle {
+    font-size: 24px;
+    font-weight: 300;
+    margin-bottom: 1rem;
+    letter-spacing: 3px;
+}
+
+.hero-title{
+    padding-top: 250px;
+}
+
+.btn-custom {
+    background-color: #235891;
+    color: white;
+    border: none;
+}
+
+.btn-login {
+    background-color: #235891;
+    color: white;
+    border: navy;
+}
+.recipe-card {
+    border: 1px solid #235891;
+    background:#f9f5f5;
+    overflow: hidden;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    height: 100%;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
