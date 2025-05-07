@@ -15,7 +15,7 @@
         <div class="container-fluid">
             <a class="navbar-brand d-flex align-items-center" href="#">
                 <img src="{{ asset('images/logo (3).png') }}" height="50" width="50" alt="Logo" class="me-2">
-                DapurKita.com
+                DapurKita.co
             </a>
 
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
